@@ -1,0 +1,38 @@
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\bin\Debug\CMPE214 Project.exe.config
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\bin\Debug\CMPE214 Project.exe
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\bin\Debug\CMPE214 Project.pdb
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214 Project.csprojAssemblyReference.cache
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214_Project.mainForm.resources
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214_Project.Properties.Resources.resources
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214 Project.csproj.GenerateResource.cache
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214 Project.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214 Project.exe
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214 Project.pdb
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214_Project.FormAdd.resources
+C:\Users\Roma\source\repos\CMPE214 Project\CMPE214 Project\obj\Debug\CMPE214_Project.FormUpdate.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.csprojAssemblyReference.cache
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.FormAdd.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.FormUpdate.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.mainForm.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.Properties.Resources.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.csproj.GenerateResource.cache
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.exe
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.pdb
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\bin\Debug\CMPE214 Project.exe.config
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\bin\Debug\CMPE214 Project.exe
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\bin\Debug\CMPE214 Project.pdb
+C:\Users\Roma\source\repos\CMPE214 Project - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.FormAdmin.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\bin\Debug\CMPE214 Project.exe.config
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\bin\Debug\CMPE214 Project.exe
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\bin\Debug\CMPE214 Project.pdb
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.csprojAssemblyReference.cache
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.FormAdd.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.FormAdmin.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.FormUpdate.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.mainForm.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214_Project.Properties.Resources.resources
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.csproj.GenerateResource.cache
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.exe
+C:\Users\Roma\source\repos\CMPE214 Project - Copy - Copy\CMPE214 Project\obj\Debug\CMPE214 Project.pdb
